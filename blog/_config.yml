@@ -94,11 +94,11 @@ pagination_dir: page
 include:
 exclude:
 ignore:
-
+i`
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Sakura
+theme: hexo-theme-sakura
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
