@@ -3,8 +3,10 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/blog/hexo-theme-matery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog/themes/hexo-theme-griddy" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/blog/themes/hexo-theme-matery" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/blog/themes/hexo-theme-sakura" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/blog/themes/hexo-theme-simperlog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog/themes/hexo-theme-varaint" vcs="Git" />
   </component>
 </project>
